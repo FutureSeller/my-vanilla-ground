@@ -1,0 +1,12 @@
+{
+  "name": "@examples/star-rating",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "serve -s ."
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}

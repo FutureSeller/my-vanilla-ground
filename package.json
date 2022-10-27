@@ -1,0 +1,11 @@
+{
+  "name": "my-vanilla-ground",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "examples/*"
+  ],
+  "repository": "https://github.com/FutureSeller/my-vanilla-ground.git",
+  "author": "FutureSeller <f.s3ll3r@gmail.com>",
+  "license": "MIT"
+}
